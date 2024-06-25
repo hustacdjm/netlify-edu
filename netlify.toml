@@ -1,0 +1,3 @@
+[build]
+functions = "./my-netlify-project/functions"
+publish = "C:\\Users\\jdai\\my-netlify-project\\dist"
